@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #01579B;
+}
+
+.mycard {
+    align-content: center;
+    padding-top: 5vh;
+    /* padding-bottom: 10%; */
+}
+
+.card .card-content .card-title{
+    /* font-family: 'Ubuntu', sans-serif; */
+    
+}
+
+.card .card-content .mytitle{
+    color: #616161;
+}
+.social li{
+    display: inline-block;
+    margin-right: .3rem;
+}
+
+.social a{
+    text-decoration: none;
+    color: grey;
+}
+.youtube i{
+    color: red;
+}
+.codepen i {
+    color: #424242;
+}
+.mtm{
+    margin-top: 3rem;
+}
+.mt{
+    margin-top: 2rem;
+}
+.mts{
+    margin-top: 3rem;
+}
+.mb{
+    margin-bottom: 3rem;
+}
+.logo{
+    width: 300px;
+}
